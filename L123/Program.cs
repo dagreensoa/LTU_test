@@ -6,7 +6,7 @@ namespace L123
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("GZAGAZ");
         }
     }
 }
